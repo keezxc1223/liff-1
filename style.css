@@ -23,7 +23,7 @@ body {
 
 #imag { 
     max-width: 25%; 
-    height: auto; 
+    height: 100vh; 
 }
 
 .button {
