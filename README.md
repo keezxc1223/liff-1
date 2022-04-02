@@ -1,2 +1,2 @@
-# liff
-Public Liff
+# liff v1
+Public Liff - invalid
